@@ -1,5 +1,24 @@
 # UFood Marketing Campaign Optimization
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-yellow?style=for-the-badge&logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-visualization-blue?style=for-the-badge)
+
+![GitHub stars](https://img.shields.io/github/stars/TimothyTshimauswu/UFood-Marketing-Campaign-Optimization?style=social)
+![GitHub forks](https://img.shields.io/github/forks/TimothyTshimauswu/UFood-Marketing-Campaign-Optimization?style=social)
+
+**Achieving 3.4x Campaign Acceptance Improvement Through Precision Customer Segmentation**
+
+[![View Notebooks](https://img.shields.io/badge/View-Notebooks-FF8C00?style=for-the-badge)](https://github.com/TimothyTshimauswu/UFood-Marketing-Campaign-Optimization/tree/main/notebooks)
+[![Read Documentation](https://img.shields.io/badge/Read-Documentation-blue?style=for-the-badge)](https://github.com/TimothyTshimauswu/UFood-Marketing-Campaign-Optimization#readme)
+
+</div>
+
 ![Project Banner](assets/ufood_banner.png)
 
 **Tools**: Python | Pandas | Scikit-learn | K-Means | Matplotlib | Seaborn  
